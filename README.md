@@ -13,3 +13,8 @@ https://digitalcloud.training/amazon-vpc/
 ](https://digitalcloud.training/amazon-ec2-auto-scaling/)
 
 https://digitalcloud.training/aws-elastic-load-balancing-aws-elb/
+
+
+https://digitalcloud.training/amazon-s3-and-glacier/
+
+
